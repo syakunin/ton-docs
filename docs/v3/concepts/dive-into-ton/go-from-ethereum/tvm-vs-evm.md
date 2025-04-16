@@ -38,7 +38,7 @@ TVM's design is particularly advantageous for applications requiring complex sta
 
 #### TVM
 
-- TVM also functions as a stack-based machine but with a key distinction: it supports both 257-bit integers and references to cells.
+- TVM also functions as a stack-based machine but with a key distinction: it supports both 256-bit integers and references to cells.
 - This allows TVM to push and pop these two distinct types of data onto/from the stack, providing enhanced flexibility in direct data manipulation.
 
 #### Example of stack operations
